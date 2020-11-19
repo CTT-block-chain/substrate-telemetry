@@ -56,7 +56,7 @@ export class Chains extends React.Component<Chains.Props, {}> {
         </a>
         <a
           className="Chains-fork-me"
-          href="https://github.com/paritytech/substrate-telemetry"
+          href="https://github.com/CTT-block-chain/substrate-telemetry"
           target="_blank"
           title="Fork Me!"
         >
